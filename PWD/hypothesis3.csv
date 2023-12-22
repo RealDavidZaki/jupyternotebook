@@ -1,0 +1,5 @@
+H3,,,,
+Device Preference,Mean,Variance,Result,Hypothesis
+Mobile,2.999,0.702,"F (2, 713) = 0.923, p > 0.05",Accepted
+Computer,2.979,0.637,,
+No Preference,2.893,0.685,,
